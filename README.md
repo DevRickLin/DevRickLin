@@ -17,3 +17,11 @@ I am Rick Lin. A frontend developer.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevRickLin&hide=java&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+### My Blog
+
+🏠<https://devricklin.github.io/>
+
+### Contact Me!
+
+
+📧<contactchienlin@gmail.com>
