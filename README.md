@@ -1,19 +1,19 @@
 ### Hi there 👋
 
-I am Rick Lin. A frontend developer.
+Hello, I am Rick(Chien Lin), a passionate developer who loves to explore new front-end technologies. I have experience with frameworks like Vue and React, and I am currently learning ReactNative.
 
-### I love...
+Here are some of works that showcase my skills and creativity:
 
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+1. I made the official site of CSU iOSClub, a static site based on Svelte. [link](https://csuios.club/)
+2. I have contributed to the Casbin open source community, mainly on `Casdoor-Vue-Sdk` and `Confita`. 
+   [link](https://github.com/DevRickLin/casdoor-vue-sdk)
+   [link](https://github.com/casbin/confita)
+3. A web app that help students to understand huffman tree. [Link](https://github.com/DevRickLin/huffman_generator)
 
-### My Blog
+### My Skills
 
-🏠<https://devricklin.github.io/>
+![skills](https://skillicons.dev/icons?i=js,ts,vue,react,svelte)
 
-### Contact Me!
-
+### Contact
 
 📧<contactchienlin@gmail.com>
