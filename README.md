@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello, I am Rick(Chien Lin), a passionate developer who loves to explore new front-end technologies. I have experience with frameworks like Vue and React, and I am currently learning ReactNative.
+Hello, I am Rick(Chien Lin), a passionate developer who loves to explore new front-end technologies. I have experience with frameworks like Vue and React, and I am currently learning Svelte.
 
 Here are some of works that showcase my skills and creativity:
 
