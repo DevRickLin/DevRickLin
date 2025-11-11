@@ -20,11 +20,6 @@ Here are some earlier projects that reflect my curiosity and craftsmanship:
 
 ![skills](https://skillicons.dev/icons?i=python,typescript,fastapi,nodejs,vue,react,svelte,docker,git)
 
-💡 **Core Focus**  
-- Designing intuitive **Agent–Human** interactions  
-- Building adaptive systems with **LangGraph** and **Agno**  
-- Exploring the human side of technology — where reasoning meets empathy  
-
 ---
 
 ### 📬 Contact
