@@ -5,15 +5,6 @@ Lately, my main focus has been on how **AI Agents** reshape **human-computer int
 
 I’ve been involved in several **agent-related projects at ByteDance**, while also running personal explorations to better understand the architecture and interaction patterns behind frameworks like **LangGraph** and **Agno**.
 
-Here are some earlier projects that reflect my curiosity and craftsmanship:
-
-1. 🧭 **CSU iOSClub Official Site** — a Svelte-based static site built for the iOS developer community.  
-   [link](https://csuios.club/)
-2. 🔐 **Open-Source Contributions** — active contributor in the Casbin ecosystem, focusing on `Casdoor-Vue-SDK` and `Confita`.  
-   [link](https://github.com/DevRickLin/casdoor-vue-sdk) | [link](https://github.com/casbin/confita)
-3. 🌳 **Huffman Tree Visualizer** — an interactive web app to help students understand Huffman encoding.  
-   [link](https://github.com/DevRickLin/huffman_generator)
-
 ---
 
 ### 🧠 My Current Stack & Interests
